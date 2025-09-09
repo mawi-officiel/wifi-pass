@@ -1,10 +1,10 @@
 <div align="center">
   <h1><strong>MAWI MAN</strong></h1>
   <p><em>WIFI PASS – There is no unhackable Wi-Fi.</em></p>
-  <img src="https://www.mawiman.com/assets/img/mawiman/Icon-1.png" alt="MAWI MAN" width="40%">
+  <img src="https://www.mawiman.com/assets/img/wifipass/wifi-pass-logo.png" alt="MAWI MAN" width="40%">
 </div>
 <div align="center">
-  <a href="https://www.mawiman.com">
+  <a href="https://www.mawiman.com/wifi_pass">
     <img src="https://img.shields.io/badge/Official_Website-www.mawiman.com-dc2626?style=for-the-badge" alt="Official Website">
   </a>
 
